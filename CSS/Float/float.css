@@ -1,0 +1,33 @@
+* {
+    font-family: 'Mooli', sans-serif;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+section {
+    border: 2px solid rgb(195, 0, 255);
+    width: 100%;
+}
+
+div {
+    margin: 5px;
+    width: 50px;
+    height: 150px;
+}
+
+.esquerda {
+    float: left;
+    background-color: pink;
+}
+
+.direita {
+    float: right;
+    background-color: cyan;
+}
+
+.neutra {
+    clear: both;/* Cancela o Float */
+   background: red;
+}

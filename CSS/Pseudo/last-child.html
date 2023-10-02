@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudoclasses</title>
+    <style>
+        .mylist li:first-child {
+            background: greenyellow;
+        }
+        .mylist li:nth-child(3) {
+            background: grey;
+        }
+        .mylist li:nth-child(2) {
+            background: rgb(17, 0, 255);
+        }
+        .mylist li:nth-child(4) {
+            background: rgb(0, 0, 0);
+            color: hotpink;
+        }
+        .mylist li:last-child {
+            background: yellow;
+        }
+    </style>
+</head>
+<body>
+    <section>
+        <p>Lista não ordenada colorida</p>
+        <ul class="mylist">
+            <li>Primeiro filho</li>
+            <li>Segundo filho</li>
+            <li>Terceiro filho</li>
+            <li>Quarto filho</li>
+            <li>Ùltimo filho</li>
+        </ul>
+    </section>
+</body>
+</html>

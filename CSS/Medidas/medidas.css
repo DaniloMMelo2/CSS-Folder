@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    font-size: 16px;
+    background-color: aliceblue;
+}
+
+#primeiro {
+    font-size: 1em;
+    background-color: red;
+}
+
+.primeiro_texto {
+    background-color: aqua;
+    font-size: 1.5rem;
+}
+#segundo {
+    font-size: 2em;
+    background-color: rgb(0, 255, 0);
+}
+
+.segundo_segundo {
+    font-size: 2.5em;
+    background-color: orange;
+}
+
+#terceiro {
+    font-size: 3em;
+    background-color: blue;
+}
+
+.terceiro_terceiro {
+    font-size: 3.5em;
+    background-color: violet;
+}

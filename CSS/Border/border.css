@@ -1,0 +1,41 @@
+body {
+    background-color: aliceblue;
+}
+h1 {
+    text-align: center;
+    border-bottom: 3px solid purple;
+}
+.Solid{
+    color: purple;
+    border-bottom: 2px solid;
+}
+.Double {
+    color: red;
+    border-bottom: 2px double;
+}
+.Dotted {
+    color: green;
+    border-bottom: 2px dotted;
+}
+.Dashed {
+    color: rgb(0, 255, 136);
+    border-bottom: 2px dashed;
+}
+.Red {
+    color: rgb(255, 0, 0);
+    border-bottom: 2px ;
+}
+.Green {
+    color: rgb(94, 255, 0);
+}
+.Blue {
+    color:rgb(0, 81, 255)
+}
+.Frankie {
+    color: rgb(151, 52, 218);
+}
+footer {
+    text-align: end;
+    color: rgb(94, 255, 0);
+    border: 2px solid;
+}

@@ -1,0 +1,22 @@
+h1 {
+    /*Muda a cor do fundo*/
+    background-color: yellow;
+    /*Tamanho da Fonte*/
+    font-size: 18px;
+    /*Tamanho da Largura da Caixa*/
+    width: 100%;
+    /*Altura da Caixa*/
+    height: 50px;
+    /*Alinhamento do texto*/
+    text-align: center;
+    /*Tipo da Fonte*/
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /*Espaçamento das Letras*/
+    letter-spacing: 0.4rem;
+    /*Cor do Texto*/
+    color:blue;
+    /*Espaçamento Interno (parte superior)*/
+    padding-top: 13px;
+    /*Como a caixa vai ser formada*/
+    box-sizing: border-box;
+}
